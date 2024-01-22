@@ -2,8 +2,7 @@
 
 My name is Yih Seong (but you can call me Yih)
 
-Here are some ideas to get you started:
-
+About me: 
 - 🔭 I’m currently working on surviving the MSc IHTM course 😰
 - 🌱 I’m currently learning how to use R 💻
 - 🤔 I’m looking for help with ☝️
